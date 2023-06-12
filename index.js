@@ -25,24 +25,23 @@ class Song {
 }
 
 const songs = [
-    new Song("Song 1", "Sheikh Mustafa", "Mustafa", "1NcWuuwdgFs"),
-    new Song("Song 2", "Sheikh Mustafa", "Mustafa", "DbyDJTJ-FwU"),
-    new Song("Song 3", "Sheikh Mustafa", "Mustafa", "hgBbaCi3rdA"),
-    new Song("Song 3", "Sheikh Mustafa", "Mustafa", "iOBzIm48Fiw"),
-    new Song("Song 3", "Sheikh Mustafa", "Mustafa", "abW7twaV1tQ"),
-    new Song("Song 3", "Sheikh Mustafa", "Mustafa", "u33JL7yYaiY"),
-    new Song("Song 3", "Sheikh Mustafa", "Mustafa", "qAsjSnUnPNc"),
-    new Song("Song 3", "Sheikh Mustafa", "Mustafa", "DmLyxOHF_Js"),
-    new Song("Song 3", "Sheikh Hussein Ali Jabuti", "Jabuti", "WZ-f_XYkbnk"),
-    new Song("Song 3", "Sheikh Hussein Ali Jabuti", "Jabuti", "C6-KY-dXeZ4"),
-    new Song("Song 3", "Sheikh Hussein Ali Jabuti", "Jabuti", "JUCYsaN5zHo"),
-    new Song("Song 3", "Sheikh Hussein Ali Jabuti", "Jabuti", "IREFZ3jyOYM"),
-    new Song("Song 3", "Sheikh Hussein Ali Jabuti", "Jabuti", "H1HvKmJ4WUY"),
-    // new Song("Song 3", "Sheikh Hussein Ali Jabuti", "Jabuti", "DmLyxOHF_Js"),
-    // new Song("Song 3", "Sheikh Hussein Ali Jabuti", "Jabuti", "DmLyxOHF_Js"),
-    // new Song("Song 3", "Sheikh Hussein Ali Jabuti", "Jabuti", "DmLyxOHF_Js"),
-    // new Song("Song 3", "Sheikh Hussein Ali Jabuti", "Jabuti", "DmLyxOHF_Js"),
-    // new Song("Song 3", "Sheikh Hussein Ali Jabuti", "Jabuti", "DmLyxOHF_Js"),
+    new Song("Sacdiyo, Soo maan noqdeen doob", "Suldan Seerar", "Happy", "x6OlbLMEJt4"),
+    new Song("OH my love", "Suldan Seerar", "Happy", "uuNfIGIQrMA"),
+    new Song("Xamar Bila", "Suldan Seerar", "Happy", "P39M7xYUKCM"),
+    new Song("Qalbi Nuuriyay", "Suldan Seerar", "Happy", "4YCfVN9WD20"),
+    new Song("Taj Mahal", "Guled Simba", "Happy", "0KYzQIpnwvw"),
+    new Song("Dheeman", "Guled Simba", "Happy", "ODzSwpJV17Q"),
+    new Song("Halkeen ka helaa", "Shadiyo Sharaf", "Energetic", "WVOI1dhA2g0"),
+    new Song("Beerlula", "Faisal Xawase", "Energetic", "UIVIY7p9Y-8"),
+    new Song("Ma hurantii Noloshay", "Abdikarin Qasaye", "Happy", "HDS5J2yH0wQ"),
+    new Song("Naftaydu naf bay rabtaa", "Xabiiba Xasan", "Sad", "8Xj1cyhtVn0"),
+    new Song("Heesta-Taar", "Lafole", "Sad", "KX-k_jTXSJI"),
+    new Song("Amaan iyo ducaba", "Nuur Cade", "Energetic", "LXMa23hkffQ"),
+    new Song("Maku diray jaceyl", "Idil Barkhad", "Sad", "oThVuw2ylUQ"),
+    new Song("Naf ku jecel ", "Fartun Birimo","Sad", "BQOEd14Zo2QBQOEd14Zo2Q"),
+    new Song("Dhaawac baa igu yaalo", "Abdullahi Boqol", "Sad", "kC-kuf_vj1I"),
+  
+
     // Add more songs here...
 ];
 
